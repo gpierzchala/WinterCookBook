@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Szczegóły</title>
+
+        <!-- WinJS references -->
+        <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+        <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+        <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+        <link href="/css/default.css" rel="stylesheet" />
+        <link href="/pages/itemDetail/itemDetail.css" rel="stylesheet" />
+        <script src="/js/data.js"></script>
+        <script src="/pages/itemDetail/itemDetail.js"></script>
+    </head>
+    <body>
+        <!-- The content that will be loaded and displayed. -->
+        <div class="itemdetailpage fragment">
+            <div class="content" aria-label="Main content" role="main">
+                <header aria-label="Header content" role="banner">
+                    <button id="backButton" data-win-control="WinJS.UI.BackButton"></button>
+                    <h1 class="titlearea win-type-ellipsis">
+                        <span class="pagetitle"></span>
+                    </h1>
+                </header>
+                <article>
+                    <div>
+                        <header>
+                            <h2 class="item-title"></h2>
+                        </header>
+                        <img class="item-image" src="#" />
+                        <h2>
+                            Czas przygotowania: <span class="item-subtitle"></span> minut
+                        </h2>
+                    </div>
+                    <div class="ingredients">
+                        <h2>Składniki</h2>
+                        <div class="item-ingredients"></div>
+                    </div>
+                    <div class="directions" style="margin-left: -20px">
+                        <h2>Sposób przygotowania</h2>
+                        <h2 class="item-directions"></h2>
+                    </div>
+                </article>
+            </div>
+        </div>
+
+        <div id="appbar" data-win-control="WinJS.UI.AppBar">
+            <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{ id: 'brag', label: 'Zdjęcie', icon: 'emoji2', section: 'selection', type: 'flyout', flyout: 'bragFlyout' }"></button>
+        </div>
+        <div id="bragFlyout" data-win-control="WinJS.UI.Menu">
+            <button data-win-control="WinJS.UI.MenuCommand" data-win-options="{ id: 'photo', label: 'Zdjęcie' }"></button>
+            
+        </div>
+
+
+    </body>
+</html>

@@ -1,0 +1,15 @@
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bin\Debug\ReverseMap\resources.pri
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bin\Debug\AppxManifest.xml
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bin\Debug\Swiateczna Ksiazka Kucharska JS.build.appxrecipe
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\priconfig.xml
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\priconfig.xml.intermediate
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\layout.resfiles
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\layout.resfiles.intermediate
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\resources.resfiles
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\resources.resfiles.intermediate
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\pri.resfiles
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\pri.resfiles.intermediate
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\qualifiers.txt
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\qualifiers.txt.intermediate
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\ProjectArchitectures.txt

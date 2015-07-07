@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>STACJONARNY</Machine>
+    <WindowsUser>Grzegorz</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>59d89597-867b-46bd-872b-c8ae391f573d</PackageIdentityName>
+    <IntermediateOutputPath>E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>EC9A574478E3C15C7DE2E591EE3F3C088253A31DFBEAAC05CE4FFA187D1E78D1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>59d89597-867b-46bd-872b-c8ae391f573d_1.0.0.0_neutral__14fn4tq3tw1d8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>59d89597-867b-46bd-872b-c8ae391f573d_14fn4tq3tw1d8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>59d89597-867b-46bd-872b-c8ae391f573d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Grzegorz</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-17T12:16:52.516</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-01-17T12:02:47.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\about\about.css">
+      <PackagePath>pages\about\about.css</PackagePath>
+      <Modified>2015-01-17T12:02:49.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+      <Modified>2015-01-17T12:02:49.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+      <Modified>2015-01-17T12:02:49.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+      <Modified>2015-01-17T12:02:49.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\search\search.css">
+      <PackagePath>pages\search\search.css</PackagePath>
+      <Modified>2015-01-17T12:02:49.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\search\searchResults.css">
+      <PackagePath>pages\search\searchResults.css</PackagePath>
+      <Modified>2015-01-15T18:19:12.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\data\Przepisy.txt">
+      <PackagePath>data\Przepisy.txt</PackagePath>
+      <Modified>2015-01-17T12:02:47.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\bg.jpg">
+      <PackagePath>images\bg.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\desery\ciasteczka.jpg">
+      <PackagePath>images\desery\ciasteczka.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\desery\deser.jpg">
+      <PackagePath>images\desery\deser.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\desery\keks.jpg">
+      <PackagePath>images\desery\keks.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\desery\pierniki.jpg">
+      <PackagePath>images\desery\pierniki.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\desery\strudelMakowy.jpg">
+      <PackagePath>images\desery\strudelMakowy.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\glowne\dania.jpg">
+      <PackagePath>images\glowne\dania.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:49.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\glowne\jarzynowa.JPG">
+      <PackagePath>images\glowne\jarzynowa.JPG</PackagePath>
+      <Modified>2015-01-17T12:02:48.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\glowne\karp.jpg">
+      <PackagePath>images\glowne\karp.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\glowne\pierogi.jpg">
+      <PackagePath>images\glowne\pierogi.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\glowne\rybaPoGrecku.jpg">
+      <PackagePath>images\glowne\rybaPoGrecku.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:49.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\przystawki\kapustaZGrzybami.jpg">
+      <PackagePath>images\przystawki\kapustaZGrzybami.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\przystawki\kluskiZmakiem.jpg">
+      <PackagePath>images\przystawki\kluskiZmakiem.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\przystawki\koreczkiSledziowe.jpg">
+      <PackagePath>images\przystawki\koreczkiSledziowe.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\przystawki\przystawki.jpg">
+      <PackagePath>images\przystawki\przystawki.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:49.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\przystawki\sledzieWmusztardzie.jpg">
+      <PackagePath>images\przystawki\sledzieWmusztardzie.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\zupy\barszcz.jpg">
+      <PackagePath>images\zupy\barszcz.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\zupy\grzybowa.jpg">
+      <PackagePath>images\zupy\grzybowa.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:48.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\zupy\moczka.jpg">
+      <PackagePath>images\zupy\moczka.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:49.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\zupy\siemieniotka.jpg">
+      <PackagePath>images\zupy\siemieniotka.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:49.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\zupy\zupa.jpg">
+      <PackagePath>images\zupy\zupa.jpg</PackagePath>
+      <Modified>2015-01-17T12:02:49.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\Logo.scale-100.png">
+      <PackagePath>images\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-17T12:02:47.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\SmallLogo.scale-100.png">
+      <PackagePath>images\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-17T12:02:47.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-17T12:02:47.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-17T12:02:47.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\images\WideLogo.scale-100.png">
+      <PackagePath>images\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-17T12:02:47.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2015-01-17T12:16:35.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-01-17T12:27:28.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2015-01-17T12:02:49.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\about\about.js">
+      <PackagePath>pages\about\about.js</PackagePath>
+      <Modified>2015-01-17T12:02:49.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+      <Modified>2015-01-15T19:27:37.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+      <Modified>2015-01-17T12:02:49.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+      <Modified>2015-01-11T14:34:52.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\search\search.js">
+      <PackagePath>pages\search\search.js</PackagePath>
+      <Modified>2015-01-15T19:02:48.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\search\searchResults.js">
+      <PackagePath>pages\search\searchResults.js</PackagePath>
+      <Modified>2015-01-15T18:19:11.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\about\about.html">
+      <PackagePath>pages\about\about.html</PackagePath>
+      <Modified>2015-01-17T12:02:49.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+      <Modified>2015-01-15T19:29:37.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+      <Modified>2015-01-15T19:29:29.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+      <Modified>2015-01-15T19:02:49.328</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-01-17T12:02:46.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\search\search.html">
+      <PackagePath>pages\search\search.html</PackagePath>
+      <Modified>2015-01-17T12:02:49.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\pages\search\searchResults.html">
+      <PackagePath>pages\search\searchResults.html</PackagePath>
+      <Modified>2015-01-15T18:19:12.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Swiateczna Ksiazka Kucharska JS\Swiateczna Ksiazka Kucharska JS\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-17T12:16:52.329</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
